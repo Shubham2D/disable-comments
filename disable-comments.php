@@ -4,6 +4,7 @@
  * Description: Fully disables comments and trackbacks on the entire WordPress site.
  * Version: 1.0
  * Author: Shubham Sawarkar
+ * Author URI: https://github.com/Shubham2D
  * License: MIT
  */
 
